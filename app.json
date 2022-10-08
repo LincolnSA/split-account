@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "split-account",
+    "slug": "split-account",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
